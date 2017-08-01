@@ -1,0 +1,17 @@
+{
+  "name": "cordova-plugin-storageoptions",
+  "version": "0.0.1",
+  "description": "Get intern/external storage",
+  "cordova": {
+    "id": "cordova-plugin-storageoptions",
+    "platforms": [
+      "android"
+    ]
+  },
+  "keywords": [
+    "cordova",
+    "storage",
+    "ecosystem:cordova",
+    "cordova-android"
+  ]
+}
